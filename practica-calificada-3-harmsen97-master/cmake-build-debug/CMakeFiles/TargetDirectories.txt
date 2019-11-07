@@ -1,0 +1,3 @@
+/Users/jeronimo/Desktop/practica-calificada-3-harmsen97-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jeronimo/Desktop/practica-calificada-3-harmsen97-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jeronimo/Desktop/practica-calificada-3-harmsen97-master/cmake-build-debug/CMakeFiles/practica_calificada_3_harmsen97_master.dir
