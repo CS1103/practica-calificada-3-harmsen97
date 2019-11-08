@@ -1,45 +1,15 @@
-
-
 #include <iostream>
-#include <fstream>
-#include <string>
-#include <vector>
-#include <algorithm>
-
 
 #include "lectura.h"
+#include "operaciones.h"
 
 
+    int main (){
 
+        std::map<std::string, std::pair<std::string, int>> sub = lectura("../bid_example.txt");
 
-
-int promedio(std::vector<std::string> x){
-
-    for (int i =0; i<x.size(); ++i){
-
-
+        escritura(sub, "../test1.txt");
     }
 
 
-}
-
-
-void maxOferta(std::vector<int>){
-
-}
-void minOferta(std::vector<int>){
-
-
-
-
-}
-
-        int main (){
-
-            std::map<std::string, std::string> sub = lectura();
-            for(auto&i:sub)
-                std::cout<<i.first<<' '<<i.second<<'\n';
-
-
-}
 

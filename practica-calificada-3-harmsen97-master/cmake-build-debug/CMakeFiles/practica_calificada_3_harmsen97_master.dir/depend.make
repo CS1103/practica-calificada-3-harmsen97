@@ -3,4 +3,5 @@
 
 CMakeFiles/practica_calificada_3_harmsen97_master.dir/main.cpp.o: ../lectura.h
 CMakeFiles/practica_calificada_3_harmsen97_master.dir/main.cpp.o: ../main.cpp
+CMakeFiles/practica_calificada_3_harmsen97_master.dir/main.cpp.o: ../operaciones.h
 

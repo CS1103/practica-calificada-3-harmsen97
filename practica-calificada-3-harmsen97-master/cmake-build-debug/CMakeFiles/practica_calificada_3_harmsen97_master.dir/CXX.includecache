@@ -7,10 +7,6 @@
 #IncludeRegexTransform: 
 
 /Users/jeronimo/Desktop/practica-calificada-3-harmsen97-master/lectura.h
-map
--
-
-/Users/jeronimo/Desktop/practica-calificada-3-harmsen97-master/main.cpp
 iostream
 -
 fstream
@@ -19,8 +15,34 @@ string
 -
 vector
 -
+map
+-
+climits
+-
 algorithm
+-
+
+/Users/jeronimo/Desktop/practica-calificada-3-harmsen97-master/main.cpp
+iostream
 -
 lectura.h
 /Users/jeronimo/Desktop/practica-calificada-3-harmsen97-master/lectura.h
+operaciones.h
+/Users/jeronimo/Desktop/practica-calificada-3-harmsen97-master/operaciones.h
+
+/Users/jeronimo/Desktop/practica-calificada-3-harmsen97-master/operaciones.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+map
+-
+climits
+-
+algorithm
+-
 
